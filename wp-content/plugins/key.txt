@@ -1,0 +1,1 @@
+install both plugins and don't update
